@@ -1,5 +1,4 @@
-👋 Hi, I'm Pradeep from Seeker Labs
-Welcome to my GitHub!
+👋 Hi, I'm Pradeep @ Seeker Labs
 Here’s what I’m currently building:
 
 
