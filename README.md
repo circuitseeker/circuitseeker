@@ -1,64 +1,59 @@
-# Circuit Seeker - Landing Page
+# Circuit Seekers
 
-An energetic and impressive landing page for Circuit Seeker, featuring modern animations, dynamic effects, and a sleek design.
+👋 Hi, I'm Pradeep
 
-## Features
+🍓 **Circuit Seekers** - An open source hub for end-to-end PCB and firmware development.
 
-- 🎨 Modern, energetic design with circuit-themed animations
+From circuit design to final embedded code — we bring hardware ideas to life. We turn ideas into functional hardware. Whether you're a startup, student, or researcher — join us in building the future, one circuit at a time.
+
+## About Circuit Seekers by SeekerLabs LLP
+
+Circuit Seekers is a bootstrapped company dedicated to empowering students and innovators. We specialize in:
+
+- **Arduino & Raspberry Pi Projects** - Complete development and prototyping
+- **Web Development** - Modern, responsive websites and applications
+- **AI & Machine Learning** - Model development and deployment
+- **PCB Design** - High-precision design in Altium & KiCad (up to 24 layers)
+- **Codex & Platforms** - Comprehensive code repositories and project reviews
+- **Training & Support** - Free training for college students
+
+### 🎓 100% FREE for College Students
+
+All our services are completely free for college students - **no commission, no hidden charges, ever!**
+
+## Website Features
+
+- 🎨 Clean, professional design
 - ⚡ Smooth scrolling navigation
 - 📊 Animated statistics counters
 - 🎯 Interactive elements and hover effects
 - 📱 Fully responsive design
-- 🌟 Parallax effects and dynamic visuals
+- 🌐 Modern freelancing platform style
 
 ## Getting Started
 
 ### Option 1: Using Python (Recommended)
-
-If you have Python installed, you can use the built-in HTTP server:
 
 ```bash
 cd circuit-seeker
 python3 -m http.server 8000
 ```
 
-Then open your browser and navigate to:
-```
-http://localhost:8000
-```
+Then open your browser and navigate to: `http://localhost:8000`
 
 ### Option 2: Using Node.js
 
-If you have Node.js installed, you can use `http-server`:
-
 ```bash
-# Install http-server globally (if not already installed)
 npm install -g http-server
-
-# Navigate to the project directory
 cd circuit-seeker
-
-# Start the server
 http-server -p 8000
-```
-
-Then open your browser and navigate to:
-```
-http://localhost:8000
 ```
 
 ### Option 3: Using PHP
 
-If you have PHP installed:
-
 ```bash
 cd circuit-seeker
 php -S localhost:8000
-```
-
-Then open your browser and navigate to:
-```
-http://localhost:8000
 ```
 
 ## File Structure
@@ -66,8 +61,9 @@ http://localhost:8000
 ```
 circuit-seeker/
 ├── index.html      # Main HTML file
-├── styles.css      # All styling and animations
+├── styles.css      # All styling
 ├── script.js       # Interactive JavaScript features
+├── .gitignore      # Git ignore file
 └── README.md       # This file
 ```
 
@@ -85,5 +81,14 @@ You can easily customize the colors, fonts, and content by editing:
 - `index.html` - For content and structure
 - `script.js` - For interactive features
 
-Enjoy your Circuit Seeker landing page! ⚡
+## GitHub Pages
 
+This website is hosted on GitHub Pages. Visit: https://circuitseeker.github.io/circuitseeker/
+
+---
+
+**Company:** SeekerLabs LLP  
+**Status:** Bootstrapped & Growing  
+**Mission:** Free Innovation for Students
+
+Enjoy your Circuit Seekers website! ⚡
